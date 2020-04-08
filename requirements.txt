@@ -1,0 +1,16 @@
+# packages in environment at /Users/anican/miniconda3/envs/dl:
+#
+# Name                    Version                   Build  Channel
+dataclasses               0.7                      py36_0
+neovim                    0.3.1                    py36_0    conda-forge
+numpy                     1.18.1           py36hde6bac1_0    conda-forge
+pandas                    1.0.1            py36h6c726b0_0
+pip                       20.0.2                     py_2    conda-forge
+python                    3.6.9                h359304d_0
+pytorch                   1.4.0                   py3.6_0    pytorch
+pytorch-lightning         0.7.1                    pypi_0    pypi
+requests                  2.23.0                   py36_0
+scikit-learn              0.22.1           py36hebd9d1a_0
+tensorboard               2.1.1                    pypi_0    pypi
+torchvision               0.5.0                  py36_cpu    pytorch
+tqdm                      4.42.1                     py_0    conda-forge
